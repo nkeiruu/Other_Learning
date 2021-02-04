@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+      <!-- Put CSS Stuff here-->
+  <style>
+    body{background-color: Gainsboro;}
+    
+    #para {font-size: 50px;
+      text-align:center;}
+    
+    # pic{
+  float: left; margin 0 15px 0 0 
+  
+  }
+    
+    <h3> Nkeiru's First Website</h3>
+    <title> Nkeiru tries HTML </title>
+  </style>
+  
+  <body><p id = "para"> This is my first website.</p>  I like learning new technical skills. Right now, I am learning HTML!
+    </body>
+  <!-- This is a comment -->
+  
+  <!--This is a hyperlink-->
+  <a href="https://github.com/nkeiruu"> Click here to see rest of my code.</a>
+  
+  <img src = "https://cdn.lynda.com/course/170427/170427-637363828865101045-16x9.jpg" width = "250px" height = "250px" id = "pic" <!--align = "left" this in text wrapping -->
+  
+ 
+ 
+       <!--List-->    
+ <p> <br> List Heading</br>
+<ul>
+  <li> Carrots</li>
+  <li> Pesto </li>
+</ul>
+
+<tr> 
+  <table border = "5px">
+  <th> Vegetable </th>
+  <th> Sauce </th>
+</tr>
+<tr>
+  <td> Carrot</td>
+  <td> Pesto</td>
+</tr>
+</p>
+</html>
